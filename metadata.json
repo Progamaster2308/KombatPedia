@@ -1,0 +1,6 @@
+{
+  "name": "Kombatpedia: Mortal Kombat Universe & Lore Explorer",
+  "description": "Explorador interactivo del universo y lore de Mortal Kombat (MK9 a MK1), catálogo de kombatientes con move sets multiplataforma, catálogo de películas y series con API externa TMDb/OMDb, y sistema seguro de autenticación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
